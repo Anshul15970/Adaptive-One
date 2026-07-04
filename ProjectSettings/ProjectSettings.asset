@@ -945,14 +945,14 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 1
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   enableDirectStorage: 0
   cloudProjectId: f13204ed-9352-422b-a7c7-6664bb3641bd
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: Adaptive one
-  organizationId: anshulgurjarag15
+  organizationId: 
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
